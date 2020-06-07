@@ -1,0 +1,101 @@
+@font-face {
+    font-family: timeburner;
+    src: url(timeburner_regular.ttf);
+}
+
+a {
+	color: black;
+	text-decoration: underline;
+}
+
+.tab-button {
+	text-decoration: none;
+	color: #808080;	
+}
+
+.tab-button:hover {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+hr {
+	border: none;
+	border-top: 1px solid #c0c0c0;
+}
+
+body {
+	font-size: 16pt;
+	font-family: timeburner,arial,verdana,HelveticaNeue,Helvetica,sans-serif;
+	color: #606060;
+}
+
+h5 {
+	font-size: 16pt;
+	color: #000040;
+	margin-bottom: 10px;
+}
+
+.twenty-logo {
+	width: 400px;
+	height: 129px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 0px;
+	margin-top: 20px;
+}
+
+.tab-buttons {
+	width: 344px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 10px;
+}
+
+.tab-button {
+	padding: 4px 10px 4px 10px;
+}
+
+.tab-button.active {
+	/*background-color: #9ed1ff;*/	
+	background-color: #929292;
+	color: white;
+	border-radius: 10px;
+}
+
+.tab-content {
+	max-width: 600px;
+	min-width: 420px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+/*	text-align: justify;*/
+}
+
+.tab-content p {
+	text-align: justify;
+}
+
+.ipad-screenshots img {
+	border: 1px solid #c0c0c0;
+	margin: 10px;
+	width: 100px;
+	height: 133px;
+}
+
+.iphone-screenshots img {
+	border: 1px solid #c0c0c0;
+	margin: 10px;
+	width: 100px;
+	height: 177px;
+}
+
+.youtube {
+}
