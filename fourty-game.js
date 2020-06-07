@@ -35,7 +35,7 @@ function startAnimation(f) {
 }
 
 var tutorialText=[
-	"Welcome to Twenty!<br>" +
+	"Welcome to Fourty!<br>" +
 		"<span class='tutorial-small'>(best played with touch, but works with a mouse)</span><br><br>" +
 		"To play, pick up tiles and drop them<br>onto tiles with the same value." +
 	"<br><br><span class='tutorial-small'>(<a href='#' onclick='restart();return false;'>Skip Tutorial</a>)</span>",
